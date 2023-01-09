@@ -1,0 +1,811 @@
+[
+    {
+        "minStats": 380
+    },
+    {
+        "character": "psyker",
+        "item": "Achlys Mk VIII Combat Axe",
+        "minStats": 370
+    },
+    {
+        "character": "psyker",
+        "item": "Antax Mk V Combat Axe",
+        "minStats": 370
+    },
+    {
+        "character": "psyker",
+        "item": "Atrox Mk II Tactical Axe",
+        "minStats": 370
+    },
+    {
+        "character": "psyker",
+        "item": "Atrox Mk IV Tactical Axe",
+        "minStats": 370
+    },
+    {
+        "character": "psyker",
+        "item": "Atrox Mk VII Tactical Axe",
+        "minStats": 370
+    },
+    {
+        "character": "psyker",
+        "item": "Cadia Mk IV Assault Chainsword",
+        "minStats": 370
+    },
+    {
+        "character": "psyker",
+        "item": "Catachan Mk III Combat Blade",
+        "minStats": 380
+    },
+    {
+        "character": "psyker",
+        "item": "Catachan Mk VII \"Devil's Claw\" Sword",
+        "minStats": 380
+    },
+    {
+        "character": "psyker",
+        "item": "Catachan Mk IV \"Devil's Claw\" Sword",
+        "minStats": 370
+    },
+    {
+        "character": "psyker",
+        "item": "Catachan Mk I \"Devil's Claw\" Sword",
+        "minStats": 370
+    },
+    {
+        "character": "psyker",
+        "item": "Maccabian Mk II Duelling Sword",
+        "minStats": 370
+    },
+    {
+        "character": "psyker",
+        "item": "Maccabian Mk IV Duelling Sword",
+        "minStats": 380
+    },
+    {
+        "character": "psyker",
+        "item": "Maccabian Mk V Duelling Sword",
+        "minStats": 370
+    },
+    {
+        "character": "psyker",
+        "item": "Obscurus Mk II Blaze Force Sword",
+        "blessing": [
+            "Deflector",
+            "Exorcist"
+        ]
+    },
+    {
+        "character": "psyker",
+        "item": "Rashad MK II Combat Axe",
+        "minStats": 370
+    },
+    {
+        "character": "psyker",
+        "item": "Accatran MG II Heavy Laspistol",
+        "minStats": 370
+    },
+    {
+        "character": "psyker",
+        "item": "Accatran Mk II Recon Lasgun",
+        "minStats": 370
+    },
+    {
+        "character": "psyker",
+        "item": "Accatran Mk VId Recon Lasgun",
+        "minStats": 370
+    },
+    {
+        "character": "psyker",
+        "item": "Accatran Mk VIIa Recon Lasgun",
+        "minStats": 370
+    },
+    {
+        "character": "psyker",
+        "item": "Agripinaa Mk I Infantry Autogun",
+        "minStats": 370
+    },
+    {
+        "character": "psyker",
+        "item": "Agripinaa Mk VIII Braced Autogun",
+        "minStats": 370
+    },
+    {
+        "character": "psyker",
+        "item": "Agripinaa Mk VIII Headhunter Autogun",
+        "minStats": 370
+    },
+    {
+        "character": "psyker",
+        "item": "Columnus Mk II Braced Autogun",
+        "minStats": 370
+    },
+    {
+        "character": "psyker",
+        "item": "Columnus Mk V Infantry Autogun",
+        "minStats": 370
+    },
+    {
+        "character": "psyker",
+        "item": [
+            "Equinox Mk III Trauma Force Staff",
+            "Equinox Mk IV Voidstrike Force Staff"
+        ],
+        "minStats": 380
+    },
+    {
+        "character": "psyker",
+        "item": [
+            "Rifthaven Mk II Purgatus Force Staff",
+            "Nomanus Mk VI Surge Force Staff"
+        ],
+        "blessing": [
+            "Transfer Peril",
+            "Warp Flurry",
+            "Warp Nexus"
+        ]
+    },
+    {
+        "character": "psyker",
+        "item": "Graia Mk IV Braced Autogun",
+        "minStats": 370
+    },
+    {
+        "character": "psyker",
+        "item": "Graia Mk VIII Infantry Autogun",
+        "minStats": 380
+    },
+    {
+        "character": "psyker",
+        "item": "Ius Mk III Shredder Autopistol",
+        "minStats": 380
+    },
+    {
+        "character": "psyker",
+        "item": "Kantrael MG Ia Infantry Lasgun",
+        "minStats": 370
+    },
+    {
+        "character": "psyker",
+        "item": "Kantrael MG IV Infantry Lasgun",
+        "minStats": 380
+    },
+    {
+        "character": "psyker",
+        "item": "Kantrael MG XII Infantry Lasgun",
+        "minStats": 380
+    },
+    {
+        "character": "psyker",
+        "item": "Vraks Mk III Headhunter Autogun",
+        "minStats": 380
+    },
+    {
+        "character": "psyker",
+        "item": "Vraks Mk VII Headhunter Autogun",
+        "minStats": 380
+    },
+    {
+        "character": "psyker",
+        "item": "Zarona Mk IIa Quickdraw Stub Revolver",
+        "minStats": 380
+    },
+    {
+        "character": "psyker",
+        "item": [
+            "(Reliquary)",
+            "(Caged)",
+            "(Casket)"
+        ],
+        "blessing": [
+            "Vitality",
+            "Ferrocrete Hide"
+        ],
+        "perk": [
+            "Toughness Regeneration Speed",
+            "Corruption Resistance",
+            "Health",
+            "Toughness",
+            "Block Efficiency",
+            "Combat Ability Regeneration"
+        ],
+        "minBlessingRarity": 3
+    },
+    {
+        "character": "veteran",
+        "item": "Achlys Mk VIII Combat Axe",
+        "minStats": 370
+    },
+    {
+        "character": "veteran",
+        "item": "Antax Mk V Combat Axe",
+        "minStats": 380
+    },
+    {
+        "character": "veteran",
+        "item": "Atrox Mk II Tactical Axe",
+        "minStats": 370
+    },
+    {
+        "character": "veteran",
+        "item": "Atrox Mk IV Tactical Axe",
+        "minStats": 370
+    },
+    {
+        "character": "veteran",
+        "item": "Atrox Mk VII Tactical Axe",
+        "minStats": 370
+    },
+    {
+        "character": "veteran",
+        "item": "Cadia Mk IV Assault Chainsword",
+        "minStats": 370
+    },
+    {
+        "character": "veteran",
+        "item": "Catachan Mk III Combat Blade",
+        "minStats": 380
+    },
+    {
+        "character": "veteran",
+        "item": "Catachan Mk VII \"Devil's Claw\" Sword",
+        "minStats": 380
+    },
+    {
+        "character": "veteran",
+        "item": "Catachan Mk IV \"Devil's Claw\" Sword",
+        "minStats": 370
+    },
+    {
+        "character": "veteran",
+        "item": "Catachan Mk I \"Devil's Claw\" Sword",
+        "minStats": 370
+    },
+    {
+        "character": "veteran",
+        "item": "Munitorum Mk III Power Sword",
+        "minStats": 360,
+        "blessing": [
+            "Power Cycler",
+            "Savage Sweep",
+            "Sunder",
+            "Slaughterer"
+        ],
+        "perk": [
+            "Damage",
+            "Increased Attack Speed"
+        ]
+    },
+    {
+        "character": "veteran",
+        "item": "Orestes Mk IV Assault Chainaxe",
+        "minStats": 370
+    },
+    {
+        "character": "veteran",
+        "item": "Rashad Mk II Combat Axe",
+        "minStats": 370
+    },
+    {
+        "character": "veteran",
+        "item": "Standard-issue Munitorum Sapper Shovel",
+        "minStats": 370
+    },
+    {
+        "character": "veteran",
+        "item": "Accatran MG II Heavy Laspistol",
+        "minStats": 370
+    },
+    {
+        "character": "veteran",
+        "item": "Accatran Mk II Recon Lasgun",
+        "minStats": 370
+    },
+    {
+        "character": "veteran",
+        "item": "Accatran Mk VId Recon Lasgun",
+        "minStats": 370
+    },
+    {
+        "character": "veteran",
+        "item": "Accatran Mk VIIa Recon Lasgun",
+        "minStats": 370
+    },
+    {
+        "character": "veteran",
+        "item": "Agripinaa Mk I Infantry Autogun",
+        "minStats": 370
+    },
+    {
+        "character": "veteran",
+        "item": "Agripinaa Mk VIII Braced Autogun",
+        "minStats": 370
+    },
+    {
+        "character": "veteran",
+        "item": "Agripinaa Mk VIII Headhunter Autogun",
+        "minStats": 370
+    },
+    {
+        "character": "veteran",
+        "item": "Columnus Mk II Braced Autogun",
+        "minStats": 370
+    },
+    {
+        "character": "veteran",
+        "item": "Columnus Mk V Infantry Autogun",
+        "minStats": 370
+    },
+    {
+        "character": "veteran",
+        "item": "Graia Mk IV Braced Autogun",
+        "minStats": 370
+    },
+    {
+        "character": "veteran",
+        "item": "Graia Mk VIII Infantry Autogun",
+        "minStats": 370
+    },
+    {
+        "character": "veteran",
+        "item": "Ius Mk III Shredder Autopistol",
+        "minStats": 370
+    },
+    {
+        "character": "veteran",
+        "item": "Kantrael MG Ia Infantry Lasgun",
+        "minStats": 370
+    },
+    {
+        "character": "veteran",
+        "item": "Kantrael MG IV Infantry Lasgun",
+        "minStats": 375
+    },
+    {
+        "character": "veteran",
+        "item": "Kantrael MG XII Infantry Lasgun",
+        "minStats": 370,
+        "blessing": [
+            "Deadly Accurate",
+            "Headhunter"
+        ],
+        "perk": [
+            "Weak Spot Damage",
+            "Critical Hit Damage"
+        ]
+    },
+    {
+        "character": "zealot",
+        "item": "Locke Mk IIb Spearheard Boltgun",
+        "minStats": 370,
+        "blessing": [
+            "Shattering Impact",
+            "Pinning Fire"
+        ],
+        "perk": [
+            "Reload Speed",
+            "Increased Damage"
+        ]
+    },
+    {
+        "character": "veteran",
+        "item": "Lawbringer Mk VI Combat Shotgun",
+        "minStats": 370
+    },
+    {
+        "character": "veteran",
+        "item": "Lucius Mk I Helbore Lasgun",
+        "minStats": 370
+    },
+    {
+        "character": "veteran",
+        "item": "Lucius Mk II Helbore Lasgun",
+        "minStats": 370
+    },
+    {
+        "character": "veteran",
+        "item": "Lucius Mk III Helbore Lasgun",
+        "minStats": 370
+    },
+    {
+        "character": "veteran",
+        "item": "M35 Magnacore Mk II Plasma Gun",
+        "minStats": 380
+    },
+    {
+        "character": "veteran",
+        "item": "Vraks Mk III Headhunter Autogun",
+        "minStats": 370
+    },
+    {
+        "character": "veteran",
+        "item": "Vraks Mk VII Headhunter Autogun",
+        "minStats": 375
+    },
+    {
+        "character": "veteran",
+        "item": "Zarona Mk IIa Quickdraw Stub Revolver",
+        "minStats": 370
+    },
+    {
+        "character": "veteran",
+        "item": [
+            "(Reliquary)",
+            "(Caged)",
+            "(Casket)"
+        ],
+        "blessing": [
+            "Vitality",
+            "Ferrocrete Hide"
+        ],
+        "perk": [
+            "Stamina Regeneration",
+            "Toughness Regeneration Speed",
+            "Cooldown Reduction",
+            "Toughness",
+            "Health"
+        ],
+        "minBlessingRarity": 3
+    },
+    {
+        "character": "zealot",
+        "item": "Achlys Mk VIII Combat Axe",
+        "minStats": 370
+    },
+    {
+        "character": "zealot",
+        "item": "Antax Mk V Combat Axe",
+        "minStats": 380
+    },
+    {
+        "character": "zealot",
+        "item": "Atrox Mk II Tactical Axe",
+        "minStats": 370
+    },
+    {
+        "character": "zealot",
+        "item": "Atrox Mk IV Tactical Axe",
+        "minStats": 380
+    },
+    {
+        "character": "zealot",
+        "item": "Atrox Mk VII Tactical Axe",
+        "minStats": 370
+    },
+    {
+        "character": "zealot",
+        "item": "Cadia Mk IV Assault Chainsword",
+        "minStats": 370
+    },
+    {
+        "character": "zealot",
+        "item": "Catachan Mk I \"Devil's Claw\" Sword",
+        "minStats": 380
+    },
+    {
+        "character": "zealot",
+        "item": "Catachan Mk III Combat Blade",
+        "blessing": [
+            "Lacerate",
+            "Mercy Killer"
+        ],
+        "perk": [
+            "Critical Hit Damage",
+            "Increased Attack Speed"
+        ]
+    },
+    {
+        "character": "zealot",
+        "item": "Catachan Mk IV \"Devil's Claw\" Sword",
+        "minStats": 370
+    },
+    {
+        "character": "zealot",
+        "item": "Catachan Mk VII \"Devil's Claw\" Sword",
+        "minStats": 380
+    },
+    {
+        "character": "zealot",
+        "item": "Crucis Mk II Thunder Hammer",
+        "minStats": 380
+    },
+    {
+        "character": "zealot",
+        "item": "Indignatus Mk IVe Crusher",
+        "minStats": 370
+    },
+    {
+        "character": "zealot",
+        "item": "Orestes Mk IV Assault Chainaxe",
+        "minStats": 370
+    },
+    {
+        "character": "zealot",
+        "item": "Rashad MK II Combat Axe",
+        "minStats": 370
+    },
+    {
+        "character": "zealot",
+        "item": "Tigrus Mk II Heavy Eviscerator",
+        "blessing": [
+            "Shred",
+            "Savage Sweep"
+        ],
+        "perk": [
+            "Endurance",
+            "Increased Crit Chance",
+            "Increased Damage"
+        ]
+    },
+    {
+        "character": "zealot",
+        "item": "Turtolsky Mk IX Heavy Sword",
+        "minStats": 370
+    },
+    {
+        "character": "zealot",
+        "item": "Turtolsky Mk VI Heavy Sword",
+        "minStats": 370
+    },
+    {
+        "character": "zealot",
+        "item": "Turtolsky Mk VII Heavy Sword",
+        "minStats": 370
+    },
+    {
+        "character": "zealot",
+        "item": "Accatran MG II Heavy Laspistol",
+        "minStats": 370
+    },
+    {
+        "character": "zealot",
+        "item": "Agripinaa Mk I Infantry Autogun",
+        "minStats": 370
+    },
+    {
+        "character": "zealot",
+        "item": "Agripinaa Mk VIII Braced Autogun",
+        "minStats": 370
+    },
+    {
+        "character": "zealot",
+        "item": "Agripinaa Mk VIII Headhunter Autogun",
+        "minStats": 370
+    },
+    {
+        "character": "zealot",
+        "item": "Artemia Mk III Purgation Flamer",
+        "minStats": 370,
+        "blessing": [
+            "Showstopper",
+            "Blaze Away"
+        ],
+        "perk": [
+            "Damage"
+        ]
+    },
+    {
+        "character": "zealot",
+        "item": "Columnus Mk II Braced Autogun",
+        "minStats": 370
+    },
+    {
+        "character": "zealot",
+        "item": "Columnus Mk V Infantry Autogun",
+        "minStats": 370
+    },
+    {
+        "character": "zealot",
+        "item": "Columnus Mk II Braced Autogun",
+        "minStats": 370
+    },
+    {
+        "character": "zealot",
+        "item": "Columnus Mk V Infantry Autogun",
+        "minStats": 370
+    },
+    {
+        "character": "zealot",
+        "item": "Graia Mk IV Braced Autogun",
+        "minStats": 370
+    },
+    {
+        "character": "zealot",
+        "item": "Graia Mk VIII Infantry Autogun",
+        "minStats": 380
+    },
+    {
+        "character": "zealot",
+        "item": "Ius Mk III Shredder Autopistol",
+        "minStats": 370
+    },
+    {
+        "character": "zealot",
+        "item": "Kantrael MG Ia Infantry Lasgun",
+        "minStats": 380
+    },
+    {
+        "character": "zealot",
+        "item": "Kantrael MG IV Infantry Lasgun",
+        "minStats": 370
+    },
+    {
+        "character": "zealot",
+        "item": "Kantrael MG XII Infantry Lasgun",
+        "minStats": 370
+    },
+    {
+        "character": "zealot",
+        "item": "Lawbringer Mk VI Combat Shotgun",
+        "minStats": 380
+    },
+    {
+        "character": "zealot",
+        "item": "Locke Mk IIb Spearheard Boltgun",
+        "minStats": 370,
+        "blessing": [
+            "Shattering Impact",
+            "Pinning Fire"
+        ],
+        "perk": [
+            "Reload Speed",
+            "Increased Damage"
+        ]
+    },
+        {
+        "character": "zealot",
+        "item": "Vraks Mk III Headhunter Autogun",
+        "minStats": 370
+    },
+    {
+        "character": "zealot",
+        "item": "Vraks Mk VII Headhunter Autogun",
+        "minStats": 380
+    },
+    {
+        "character": "zealot",
+        "item": "Zarona Mk IIa Quickdraw Stub Revolver",
+        "minStats": 360,
+        "blessing": [
+            "Crucian Roulette",
+            "Hand-Cannon"
+        ],
+        "perk": [
+            "Reload Speed",
+            "Increased Damage",
+            "Increased Crit Chance",
+            "Critical Hit Damage"
+        ]
+    },
+    {
+        "character": "zealot",
+        "item": "Crucis Mk II Thunder Hammer",
+        "blessing": [
+            "Hammerblow"
+        ],
+        "perk": [
+            "Damage"
+        ]
+    },
+    {
+        "character": "zealot",
+        "item": [
+            "(Reliquary)",
+            "(Caged)",
+            "(Casket)"
+        ],
+        "blessing": [
+            "Vitality",
+            "Ferrocrete Hide"
+        ],
+        "perk": [
+            "Sprint Cost Reduction",
+            "Sprint Efficiency",
+            "Cooldown Reduction",
+            "Combat Ability Regeneration",
+            "Toughness Damage Reduction",
+            "Health",
+            "Toughness"
+        ],
+        "minBlessingRarity": 3
+    },
+    {
+        "character": "ogryn",
+        "item": "\"Brunt Special\" Mk I Bully Club",
+        "minStats": 370
+    },
+    {
+        "character": "ogryn",
+        "item": "Achlys Mk I Power Maul",
+        "minStats": 380
+    },
+    {
+        "character": "ogryn",
+        "item": "Brute-Brainer Mk III Latrine Shovel",
+        "minStats": 380
+    },
+    {
+        "character": "ogryn",
+        "item": "Bull Butcher Mk III Cleaver",
+        "minStats": 370,
+        "blessing": [
+            "Savage Sweep",
+            "Slaughterer",
+            "Momentum"
+        ],
+        "perk": [
+            "Increased Attack Speed",
+            "Damage"
+        ]
+    },
+    {
+        "character": "ogryn",
+        "item": "Krourk Mk IV Cleaver",
+        "minStats": 380
+    },
+    {
+        "character": "ogryn",
+        "item": "Krourk Mk VI Cleaver",
+        "minStats": 380
+    },
+    {
+        "character": "ogryn",
+        "item": "Orox Mk II Battle Maul & Mk III Slab Shield",
+        "minStats": 380
+    },
+    {
+        "character": "ogryn",
+        "item": "Blastoom Mk III Grenadier Gauntlet",
+        "minStats": 370
+    },
+    {
+        "character": "ogryn",
+        "item": "Foe-Rend Mk II Riper Gun",
+        "minStats": 370
+    },
+    {
+        "character": "ogryn",
+        "item": "Foe-Rend Mk V Ripper Gun",
+        "minStats": 375
+    },
+    {
+        "character": "ogryn",
+        "item": "Foe-Rend Mk VI Riper Gun",
+        "minStats": 370
+    },
+    {
+        "character": "ogryn",
+        "item": "Krourk Mk V Twin-Linked Heavy Stubber",
+        "minStats": 370
+    },
+    {
+        "character": "ogryn",
+        "item": "Lorenz Mk V Kickback",
+        "minStats": 370
+    },
+    {
+        "character": "ogryn",
+        "item": "Lorenz Mk VI Rumbler",
+        "minStats": 370
+    },
+    {
+        "character": "ogryn",
+        "item": [
+            "(Reliquary)",
+            "(Caged)",
+            "(Casket)"
+        ],
+        "blessing": [
+            "Vitality",
+            "Ferrocrete Hide"
+        ],
+        "perk": [
+            "Health",
+            "Toughness",
+            "Revive Speed",
+            " Stamina Regeneration",
+            "Toughness Regeneration Speed"
+        ],
+        "minBlessingRarity": 3
+    }
+]
